@@ -24,7 +24,7 @@ body {
 /********************************************************/
 /*                    Navigation bar                    */
 /********************************************************/
-.mainmenu { z-index: 999999; width:100%;  padding: 30px 0 0 0;}
+.mainmenu { z-index: 999999; width:100%;  padding: 30px 0 0 0; font-family: 'moonhouseregular', sans-serif; }
 @media (min-width: 768px) {
 	.mainmenu { position: fixed; }
 }
@@ -64,9 +64,9 @@ body {
 .mainmenu .dropdown-menu {
 	top: -14em;
 	left: 0px;
-	font-size: 13px;
+	font-size: 2em;
 	padding:0;
-	background:none;
+	background: none;
 	border:0 none;
 	border-radius: 2px;
 	-webkit-box-shadow: none;
@@ -286,7 +286,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	text-shadow:0 2px 3px rgba(0,0,0,.4);
 }
 .text-shadows .mainmenu .dropdown-menu a { 
-	text-shadow:0 2px 1px rgba(0,0,0,.2);
+	text-shadow:0 2px 1px rgba(0,0,0,.4);
 }
 .text-shadows .mainmenu .dropdown-menu a:hover { 
 	text-shadow:none;
