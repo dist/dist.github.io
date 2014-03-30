@@ -140,19 +140,19 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 .subtitle { 
 	font-family: 'moonhouse', 'Wire One', Helvetica, Arial, sans-serif;
 	font-weight:normal;
-	font-size:8em;
+	font-size:9em;
 	margin-bottom:15px; 
 	color:#fff;
 	line-height:1em;
 }
 .subtitle { 
 	line-height:.9em;
-	font-size:5.5em;
+	font-size:6.5em;
 	margin-top:0;
 	margin-bottom:40px; 
 }
 .tagline { 
-	font-size:1.4em;
+	font-size:2.4em;
 	line-height:1.3em;
 	font-weight:normal;
 	margin-bottom:75px;
@@ -291,7 +291,9 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 .text-shadows .mainmenu .dropdown-menu a:hover { 
 	text-shadow:none;
 }
-
+.text-shadows .tagline {
+	color: #ddd;
+}
 
 
 /***********************************************************/
