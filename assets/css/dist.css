@@ -138,7 +138,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 
 .title,
 .subtitle { 
-	font-family: 'moonhouse', sans-serif;
+	font-family: 'moonhouseregular', sans-serif;
 	font-weight:normal;
 	font-size:9em;
 	margin-bottom:15px; 
