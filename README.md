@@ -1,8 +1,8 @@
-dist.github.io
+DIST
 ==============
 
 ## Welcome
-dist.github.io
+A completely open and infinitely extensible distributed computing platform
 
 
 #Contributing:
